@@ -13,15 +13,24 @@ Specifically, it seeks to answer the following questions:
 # Conclusions
 Overall, the ROMI tends to increase over time for most cohorts. This indicates that returns on marketing investments accumulate favorably as customers continue to purchase in subsequent months after their first order.
 
+
 The cohort of 2017-07-01 stands out for having a notable increase in its ROMI over time, especially between months 9 and 10, where the ROMI reaches values above 100. This suggests that the marketing campaigns in July 2017 were particularly effective, resulting in customers who generate high returns over time.
 
 On the other hand, more recent cohorts, such as 2018-04-01 and 2018-05-01, have low initial ROMI values, and the accumulation is less visible due to the lack of data for subsequent months. It is necessary to wait longer to evaluate the full performance of these cohorts.
+
+
 
 It is recommended to analyze in detail the marketing strategies implemented in July 2017 and June 2017 to replicate the key elements that contributed to its success in future campaigns.
 
 The analysis shows a daily average of 907 visits and a monthly average of 23,228, with significant peaks in November and December, coinciding with Christmas shopping and effective marketing strategies. August records the lowest visits, probably due to vacations and less interest in online shopping. Session duration reveals high short-term engagement and long-term retention, with 97% of users making a purchase within six months. Initial cohorts show LTV growth, stabilizing afterwards, and the July 2017 campaigns stand out for their high ROMI. It is recommended to replicate these successful strategies and optimize the conversion funnel to improve retention and long-term performance.
 
+![daily_visits](https://github.com/Alop89/Data-analysis-to-find-user-behavior-by-cohort/blob/main/images/daily_visits.png)
+
 In conclusion, the analysis of ROMI and web traffic metrics reveals a pattern of growth in the return on marketing investment over time, especially for older cohorts. This indicates that the implemented marketing strategies are generating long-term value, as acquired customers continue to make repeat purchases.
+
+![romi_source_1](https://github.com/Alop89/Data-analysis-to-find-user-behavior-by-cohort/blob/main/images/romi_by_source.png)
+
+![cost_by_source](https://github.com/Alop89/Data-analysis-to-find-user-behavior-by-cohort/blob/main/images/acquisition_cost_by_source.png)
 
 The marketing campaigns of July 2017 stand out as a success case, generating a significantly high ROMI and sustained growth over time. This suggests that the tactics employed in that period were particularly effective in attracting and retaining high-value customers.
 
